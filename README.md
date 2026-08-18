@@ -1,6 +1,6 @@
 # SafetyWatch Agent
 
-An autonomous drug safety monitoring agent that fetches data from the openFDA API, analyzes it using an LLM, and generates a structured weekly report — with no human intervention required.
+An autonomous drug safety monitoring agent that fetches data from the openFDA API, analyzes it using an LLM, and generates a structured weekly report, with no human intervention required.
 
 Built as a demonstration of an **Agentic Analytics Engineer** workflow in pharmaceutical sciences, integrating LangGraph orchestration, RAG-based molecule retrieval, SQL storage, and MCP-style tool calling.
 
