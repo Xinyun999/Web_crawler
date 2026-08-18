@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+openai
+schedule
+python-dotenv
+langgraph
+langchain-core
+chromadb
